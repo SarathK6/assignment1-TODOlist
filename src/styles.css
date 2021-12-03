@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  
+}
+
+
+.parentdiv{
+  display: flex;
+  margin: 2rem;
+  background: #8b005d;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 1rem;
+align-items: center;
+  margin-left: 150px;
+  width: 50%;
+ 
+}
+
+.singleitem
+{ 
+  position: relative;
+  margin: 6px;
+  padding: 0;
+}
+
+.Heading{
+  margin: 1rem;
+  text-align: center;
+  
+}
+
